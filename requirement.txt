@@ -1,0 +1,7 @@
+dnspython==2.6.1
+dnsrecon==0.10.1
+droidlysis==3.4.1
+email_validator==2.1.1
+exceptiongroup==1.2.0
+executing==2.0.1
+fake-useragent==1.1.1
