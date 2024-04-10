@@ -15,7 +15,7 @@ bash
 Edit
 Full Screen
 Copy code
-git clone https://github.com/yourusername/WebRecon.git
+git clone https://github.com/frederickabrah/WebRecon.git
 cd WebRecon
 pip install -r requirements.txt
 Usage
